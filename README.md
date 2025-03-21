@@ -35,7 +35,7 @@ A sleek and functional **Google Weather App clone** built using modern Android d
 - Android Studio Electric Eel or later  
 - Minimum SDK: 24  
 - Internet connection  
-- API key from OpenWeatherMap or similar weather service
+- API key from https://www.weatherapi.com/ or similar weather service
 
 ### Setup
 
